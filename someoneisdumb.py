@@ -1,6 +1,6 @@
 import time
 numberOfDumbs = 1000
-nameOfPerson = "owen"
+nameOfPerson = "insert name here"
 
 for i in range(numberOfDumbs):
     print(nameOfPerson + " is dumb")

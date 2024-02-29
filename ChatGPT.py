@@ -23,7 +23,7 @@ def animate_bouncing_ball():
             print()
 
         # Print the ball
-        print("o")
+        print("josh is dumb")
 
         # Print empty lines after the ball
         for _ in range(10 - ball_position):

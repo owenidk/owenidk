@@ -1,4 +1,4 @@
-lines = 4
+lines = 8
 currentLine = 0
 for i in range(lines):
     currentLine = i + 1
@@ -10,3 +10,11 @@ for i in range(lines):
         print("From ancient grudge brek to new mutiny,")
     if currentLine == 4:
         print("Where civil blood makes civil hands unclean.")
+    if currentLine == 5:
+        print("From forth the fatal loins of these two foes")
+    if currentLine == 6:
+        print("A pair of star-crossed lovers take their life,")
+    if currentLine == 7:
+        print("Whose misadventured piteous overthrows")
+    if currentLine == 8:
+        print("Doth with their death bury their parents' strife.")
